@@ -1,0 +1,2 @@
+训练模型参照README中方法即可（其中/datasets/table2seq_pair.py替换为/datasets/construct_seq.py）
+运行模型跑/tableqa/example_apply.py和/tableqa/run_qa.py

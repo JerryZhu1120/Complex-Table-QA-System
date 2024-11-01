@@ -1,0 +1,27 @@
+{'dataset': 'test_table', 'epochs': 25, 'hidden': 800, 'dropout': 0.0, 'bases': 0, 'learnrate': 0.0001, 'l2norm': 0.0, 'validation': True}
+Epoch: 0001 train_loss= 1.5913 train_acc= 0.4135 val_loss= 1.6008 val_acc= 0.2835 time= 9.4057
+Epoch: 0002 train_loss= 1.5779 train_acc= 0.5872 val_loss= 1.5989 val_acc= 0.3157 time= 4.7233
+Epoch: 0003 train_loss= 1.5646 train_acc= 0.7290 val_loss= 1.5970 val_acc= 0.3438 time= 4.6321
+Epoch: 0004 train_loss= 1.5513 train_acc= 0.8292 val_loss= 1.5951 val_acc= 0.3703 time= 4.6434
+Epoch: 0005 train_loss= 1.5381 train_acc= 0.8898 val_loss= 1.5933 val_acc= 0.4004 time= 4.6459
+Epoch: 0006 train_loss= 1.5251 train_acc= 0.9315 val_loss= 1.5914 val_acc= 0.4299 time= 4.6175
+Epoch: 0007 train_loss= 1.5121 train_acc= 0.9551 val_loss= 1.5896 val_acc= 0.4539 time= 4.6261
+Epoch: 0008 train_loss= 1.4993 train_acc= 0.9695 val_loss= 1.5877 val_acc= 0.4756 time= 4.6235
+Epoch: 0009 train_loss= 1.4867 train_acc= 0.9784 val_loss= 1.5859 val_acc= 0.5007 time= 4.6383
+Epoch: 0010 train_loss= 1.4741 train_acc= 0.9840 val_loss= 1.5840 val_acc= 0.5173 time= 4.6134
+Epoch: 0011 train_loss= 1.4617 train_acc= 0.9877 val_loss= 1.5822 val_acc= 0.5352 time= 4.6281
+Epoch: 0012 train_loss= 1.4495 train_acc= 0.9901 val_loss= 1.5804 val_acc= 0.5471 time= 4.6217
+Epoch: 0013 train_loss= 1.4373 train_acc= 0.9918 val_loss= 1.5786 val_acc= 0.5606 time= 4.6065
+Epoch: 0014 train_loss= 1.4253 train_acc= 0.9927 val_loss= 1.5768 val_acc= 0.5772 time= 4.6347
+Epoch: 0015 train_loss= 1.4133 train_acc= 0.9932 val_loss= 1.5750 val_acc= 0.5867 time= 4.6271
+Epoch: 0016 train_loss= 1.4015 train_acc= 0.9941 val_loss= 1.5732 val_acc= 0.5986 time= 4.6171
+Epoch: 0017 train_loss= 1.3898 train_acc= 0.9947 val_loss= 1.5714 val_acc= 0.6084 time= 4.6157
+Epoch: 0018 train_loss= 1.3782 train_acc= 0.9950 val_loss= 1.5697 val_acc= 0.6131 time= 4.6380
+Epoch: 0019 train_loss= 1.3667 train_acc= 0.9952 val_loss= 1.5679 val_acc= 0.6182 time= 4.6214
+Epoch: 0020 train_loss= 1.3553 train_acc= 0.9956 val_loss= 1.5662 val_acc= 0.6199 time= 4.6175
+Epoch: 0021 train_loss= 1.3440 train_acc= 0.9957 val_loss= 1.5645 val_acc= 0.6230 time= 4.6082
+Epoch: 0022 train_loss= 1.3328 train_acc= 0.9957 val_loss= 1.5628 val_acc= 0.6277 time= 4.5983
+Epoch: 0023 train_loss= 1.3216 train_acc= 0.9958 val_loss= 1.5610 val_acc= 0.6280 time= 4.5941
+Epoch: 0024 train_loss= 1.3106 train_acc= 0.9959 val_loss= 1.5593 val_acc= 0.6287 time= 4.6071
+Epoch: 0025 train_loss= 1.2996 train_acc= 0.9959 val_loss= 1.5577 val_acc= 0.6291 time= 4.6000
+Test set results: loss= 1.5574 accuracy= 0.6318
